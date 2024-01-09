@@ -4,6 +4,9 @@ evals.egg-info/
 .venv/
 venv/
 
+.openai-env
+openai-env/
+
 # MacOS folder metadata
 .DS_Store
 .vscode/
